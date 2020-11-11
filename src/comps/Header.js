@@ -8,16 +8,16 @@ function Header() {
     return (
         <div className='header'>
             <IconButton>
-                <PersonIcon fontSize="large" className="header-icon" />
+                <PersonIcon fontSize="large" className="header__icon" />
             </IconButton>
 
             <img 
-            className="header_logo"
+            className="header__logo"
             src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png"
             alt=""
             />
             <IconButton>
-                <ForumIcon />
+                <ForumIcon fontSize="large" className="header__icon" />
             </IconButton>
         </div>
     )
