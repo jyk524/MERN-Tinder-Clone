@@ -6,15 +6,44 @@ function TinderCards() {
 
     const[people, setPeople] = useState([
         {
-            name: "Jeff Bezos",
+            name: "Michael Scott",
             url: 
-            "https://en.wikipedia.org/wiki/File:Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_(39074799225)_(cropped).jpg"
+            "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Steve-Carell.jpg?w=700&quality=86&strip=all"
         },
         {
-            name: "Elon Musk",
+            name: "Jim Halpert",
             url: 
-            "https://en.wikipedia.org/wiki/File:Elon_Musk_Royal_Society.jpg"
+            "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-John-Krasinski.jpg?w=700&quality=86&strip=all"
         },
+        {
+            name: "Dwight Schrute",
+            url: 
+            "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Rainn-Wilson.jpg?w=700&quality=86&strip=all"
+        },
+        {
+            name: "Pam Beesley",
+            url: 
+            "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Jenna-Fischer.jpg?w=700&quality=86&strip=all"
+        },
+        {
+            name: "Angela Martin",
+            url: 
+            "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Angela-Kinsey.jpg?w=700&quality=86&strip=all"
+        },
+        {
+            name: "Kelly Kapoor",
+            url: 
+            "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Mindy-Kaling.jpg?w=700&quality=86&strip=all"
+        },
+        {
+            name: "Meredith Palmer",
+            url: 
+            "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Kate-Flannery.jpg?w=700&quality=86&strip=all"
+        },
+        {
+            name: "Phyllis",
+            url: "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Phyllis-Smith.jpg?w=700&quality=86&strip=all"
+        }
     ])
 
     const swiped = (direction, nameToDelete) => {
