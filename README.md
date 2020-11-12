@@ -17,7 +17,7 @@
   ### Description
   * A visual Clone of Tinder built with MERN stack
   ### Installation
-  * npm i, mongod, node server in tinder backend, npm start in tinder frontend
+  * npm install, mongod, node server in tinder backend, npm start in tinder frontend
   ### Usage
   * As a base for future projects
   ### License
