@@ -12,7 +12,7 @@
   7. [Questions](#questions)
   8. [Links](#links)
   
-  ![Screenshot](tinder-clone/resources/chrome_uiIECp9PX4.png)
+  ![Screenshot](https://i.imgur.com/W08ZQwv.png)
 
   ### Description
   * A visual Clone of Tinder built with MERN stack
