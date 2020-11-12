@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Michael Scott",
+        "imgUrl": 
+        "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Steve-Carell.jpg?w=700&quality=86&strip=all"
+    },
+    {
+        "name": "Jim Halpert",
+        "imgUrl": 
+        "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-John-Krasinski.jpg?w=700&quality=86&strip=all"
+    },
+    {
+        "name": "Dwight Schrute",
+        "imgUrl": 
+        "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Rainn-Wilson.jpg?w=700&quality=86&strip=all"
+    },
+    {
+        "name": "Pam Beesley",
+        "imgUrl": 
+        "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Jenna-Fischer.jpg?w=700&quality=86&strip=all"
+    },
+    {
+        "name": "Angela Martin",
+        "imgUrl": 
+        "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Angela-Kinsey.jpg?w=700&quality=86&strip=all"
+    },
+    {
+        "name": "Kelly Kapoor",
+        "imgUrl": 
+        "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Mindy-Kaling.jpg?w=700&quality=86&strip=all"
+    },
+    {
+        "name": "Meredith Palmer",
+        "imgUrl": 
+        "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Kate-Flannery.jpg?w=700&quality=86&strip=all"
+    },
+    {
+        "name": "Phyllis Lapin",
+        "imgUrl": "https://www.usmagazine.com/wp-content/uploads/2020/03/The-Office-Cast-Then-and-Now-Phyllis-Smith.jpg?w=700&quality=86&strip=all"
+    }
+]
