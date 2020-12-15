@@ -21,7 +21,10 @@
 
 ### Installation
 
-- npm install, mongod, node server in tinder backend, npm start in tinder frontend
+- npm install
+  mongod
+  node server in tinder backend
+  npm start in tinder frontend
 
 ### Usage
 
